@@ -1,0 +1,20 @@
+fastapi                           
+pandas                            
+scikit-learn                     
+shap                              
+uvicorn
+
+
+reponame="P7API"
+
+git init
+
+git add .
+
+git commit -m "Fchiers API"
+
+git remote remove origin 
+
+git remote add origin https://github.com/gansane94/$reponame.git
+
+git push -u origin master                           
